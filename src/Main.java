@@ -6,5 +6,10 @@ public class Main {
         Omanx.Planets="2";
         Omanx.Star="4";
 
+        Planet2 Feon=new Planet2();
+        Feon.name="exo";
+        Feon.color="white";
+        Feon.size="1234billion km";
+        Feon.temp="25 celcius";
     }
 }
